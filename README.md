@@ -214,3 +214,8 @@ The Blockchain Developer:  A practical guide  - Elad Elrom
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+### my other resources
+https://www.useweb3.xyz/
+https://www.vanheije.nl/clean-contracts/
